@@ -7,3 +7,6 @@
 [submodule "game_of_life"]
 	path = game_of_life
 	url = git@github.com:LuigiNorp/Game_Of_Life.git
+[submodule "maths"]
+	path = maths
+	url = git@github.com:LuigiNorp/Maths.git
