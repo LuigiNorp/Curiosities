@@ -4,3 +4,6 @@
 [submodule "RandomWalks"]
 	path = RandomWalks
 	url = https://github.com/LuigiNorp/RandomWalks
+[submodule "Maths"]
+	path = Maths
+	url = https://github.com/LuigiNorp/Maths
