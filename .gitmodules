@@ -1,9 +1,9 @@
-[submodule "Game_Of_Life"]
-	path = Game_Of_Life
-	url = https://github.com/LuigiNorp/Game_Of_Life
 [submodule "RandomWalks"]
 	path = RandomWalks
 	url = https://github.com/LuigiNorp/RandomWalks
-[submodule "Maths"]
-	path = Maths
-	url = https://github.com/LuigiNorp/Maths
+[submodule "randomwalks"]
+	path = randomwalks
+	url = git@github.com:LuigiNorp/RandomWalks.git
+[submodule "game_of_life"]
+	path = game_of_life
+	url = git@github.com:LuigiNorp/Game_Of_Life.git
